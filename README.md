@@ -1,8 +1,8 @@
-# 💬 Quick Chat – Instantly Message on WhatsApp Without Saving Contacts
+# Quick Chat – Instantly Message on WhatsApp Without Saving Contacts
 
 ### Skip saving numbers. Just chat.
 
----
+
 
 ## 🚀 Why Quick Chat?
 
@@ -14,12 +14,14 @@ It happens all the time:
 - Following up with a new lead
 - Responding to a shared number
 
+
 Easiest solutions is to use WhatsApp’s official link – `https://wa.me/<number>` , **but**:
 
-🔸 You must **manually remove spaces, brackets, and dashes**  
-🔸 You need to **figure out the correct country code**  
-🔸 Browsers sometimes retain previously used numbers in the URL history, making it difficult to clear or update the number in the wa.me link manually.
----
+- You must **manually remove spaces, brackets, and dashes**  
+- You need to **figure out the correct country code**  
+- Browsers sometimes retain previously used numbers in the URL history, making it difficult to clear or update the number in the wa.me link manually.
+
+
 
 ## ✅ What Quick Chat Does
 
@@ -31,7 +33,7 @@ Quick Chat solves all that for you:
 🔗 Lets you copy or share the generated link  
 📲 Works as a Web App (PWA) — install it like a native app
 
----
+
 
 ## 💡 Use It the Smart Way
 
@@ -41,12 +43,12 @@ Rather than fumbling with formatting, just:
 2. Tap “Open in WhatsApp”
 3. Done!
 
-### ⭐ Tip: Bookmark this tool or install it as a Web App!
+### Tip: Bookmark this tool or install it as a Web App!
 
 - On Android/Chrome: Tap 3-dots menu → “Add to Home Screen”
 - On iOS/Safari: Tap share → “Add to Home Screen”
 
----
+
 
 ## 🌟 Why It’s Different
 
@@ -58,26 +60,13 @@ While other tools rely on wa.me too, **Quick Chat adds smart logic**:
 - Has a polished, mobile-friendly UI  
 - Doesn't require installing anything extra or saving contacts
 
----
+
 
 ## 🌐 Try It Now
 
 👉 [Open Quick Chat](https://quickchat-wa.github.io)
 
----
 
-## 🙋‍♂️ Who’s It For?
 
-- Freelancers, professionals, and business owners  
-- Anyone tired of saving one-time contacts  
-- You, if you value speed and simplicity
-
----
-
-## 🧼 Privacy & Simplicity
-
-No sign-ins. No tracking. Just a clean interface to start WhatsApp chats faster.
-
----
 
 
