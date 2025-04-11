@@ -78696,12 +78696,12 @@ break}p=4
 s=7
 return A.W(A.Gx("text/plain"),$async$vk)
 case 7:m=b
-k=m!=null
-if(k)m.toString
-if(k){if(m.a.length===0){n.lc("No Number found from clipboard.")
+if(m!=null){m.toString
+k=m.a.length!==0}else k=!1
+if(k)n.G4(B.d.m1(m.a))
+else{n.lc("Clipboard was empty.")
 s=1
-break}n.G4(B.d.m1(m.a))}else n.lc("Clipboard was empty.")
-p=2
+break}p=2
 s=6
 break
 case 4:p=3
@@ -78722,7 +78722,8 @@ ajG(a){var s=0,r=A.Q(t.H),q,p=this,o,n,m
 var $async$G4=A.R(function(b,c){if(b===1)return A.N(c,r)
 while(true)$async$outer:switch(s){case 0:n=A.j5("[^\\d+]",!0,!1)
 m=A.Fd(a,n,"")
-if(m.length===0){s=1
+if(m.length===0){p.lc("No Number found from clipboard.")
+s=1
 break}if(B.d.bL(m,A.Fd("+91","+","")))p.ai(new A.ak1(p,"+91",m))
 else if(B.d.bL(m,"+")){for(n=B.fR.gdK(B.fR),n=n.ga3(n);n.p();){o=n.gM(n)
 if(B.d.bL(m,o)){new A.ak2(p,o,m).$0()
